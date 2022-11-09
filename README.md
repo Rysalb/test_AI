@@ -6,3 +6,6 @@ terdapat 50 gambar dengan total 2 jenis daun yaitu 100 gambar. Daun pertama adal
 kemangi dengan nama latin Ocimum sanctum, kemangi termasuk tumbuhan yang kaya akan 
 manfaat. Daun kedua adalah daun jambu biji dengan nama latin Psidium Guajava, buah jambu biji 
 dikenal mengandung banyak vitamin C.
+
+
+![tampilanA](https://github.com/kilaspintas/ai_project/blob/master/Dataset-Kemangi%20dan%20Jambu%20Biji_139_128/image/Overview_dataset.JPG)
