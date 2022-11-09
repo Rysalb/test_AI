@@ -7,5 +7,5 @@ kemangi dengan nama latin Ocimum sanctum, kemangi termasuk tumbuhan yang kaya ak
 manfaat. Daun kedua adalah daun jambu biji dengan nama latin Psidium Guajava, buah jambu biji 
 dikenal mengandung banyak vitamin C.
 
-
+#Dibawah ini merupakan gambar dari dataset overview
 ![tampilanA](https://github.com/kilaspintas/ai_project/blob/master/Dataset-Kemangi%20dan%20Jambu%20Biji_139_128/image/Overview_dataset.JPG)
