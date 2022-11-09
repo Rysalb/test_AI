@@ -9,4 +9,4 @@ dikenal mengandung banyak vitamin C.
 
 # Dibawah ini merupakan gambar dari dataset overview
 
-![tampilanA](https://github.com/kilaspintas/ai_project/blob/master/Dataset-Kemangi%20dan%20Jambu%20Biji_139_128/image/Overview_dataset.JPG)
+![tampilanA](https://github.com/kilaspintas/ai_project/blob/master/image/Overview_dataset.JPG)
